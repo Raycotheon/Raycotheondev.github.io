@@ -1,6 +1,4 @@
 
-/* Icons */
-
 .right-arrow-icon {
   width: 16px;
   height: 16px;
@@ -23,9 +21,6 @@ a.icon-link:hover {
   transform: rotate(15deg);
 }
 
-
-/* Navbar Styling */
-
 .navbar {
   width: 100%;
   padding: 30px 50px;
@@ -46,7 +41,7 @@ a.icon-link:hover {
   text-decoration: underline;
 }
 
-/* Small devices (portrait tablets and large phones, 800px and below) */
+
 @media only screen and (max-width: 800px) {
   .navbar {
     padding: 20px 20px;
@@ -54,8 +49,6 @@ a.icon-link:hover {
   }
 }
 
-
-/* Button Styling */
 
 a.button {
   padding: 8px 16px;
@@ -76,8 +69,6 @@ a.button:hover {
 }
 
 
-/* Footer Styling */
-
 #footer {
   width: 100%;
   display: flex;
@@ -87,7 +78,6 @@ a.button:hover {
   gap: 16px;
 }
 
-/* Link Styling */
 a.no-underline {
   text-decoration: none;
   color: black
@@ -98,7 +88,6 @@ a.no-underline:hover {
   cursor: pointer;
 }
 
-/* Small devices (portrait tablets and large phones, 800px and below) */
 @media only screen and (max-width: 800px) {
   #footer {
     padding: 20px 20px;
