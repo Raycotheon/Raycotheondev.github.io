@@ -17,6 +17,8 @@ body {
 
 
 #main-content {
+  position: relative;
+  z-index: 2;
   margin: 225px 425px;
   display: flex;
   flex-direction: column;
@@ -43,7 +45,7 @@ body {
 }
 
 #portfolio-header-text-container {
-  display: flex;
+  display: flex; 
   flex-direction: column;
   gap: 34px;
   flex-basis: 50%;
