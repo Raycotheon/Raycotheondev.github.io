@@ -15,22 +15,12 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-
-
-
-/* Main Page Layout */
-
 #main-content {
   margin: 225px 425px;
   display: flex;
   flex-direction: column;
   gap: 96px;
 }
-
-
-
-
-/* Portfolio Header */
 
 #portfolio-header {
   display: flex;
@@ -57,11 +47,6 @@ body {
   flex-basis: 50%;
 }
 
-
-
-
-/* About Section */
-
 #about-section {
   display: flex;
   flex-direction: column;
@@ -73,6 +58,3 @@ body {
   flex-direction: column;
   gap: 16px;
 }
-
-
-
